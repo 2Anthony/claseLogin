@@ -1,0 +1,6 @@
+git init
+git usuario ---
+git status
+git add .
+git statu
+
